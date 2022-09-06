@@ -1,7 +1,3 @@
-html {
-  padding: 0px;
-}
-
 .big.block {
   border: 1px solid black;
   width: 10cm;
@@ -11,7 +7,6 @@ html {
   background-repeat: no-repeat;
   background-position: top 90px right 10px;
   background-size: 3cm 2cm;
-  margin: 0px;
 }
 
 .image {
@@ -48,16 +43,4 @@ html {
   display: inline-flex;
   position: relative; top: -480px;
   position: relative; left: 260px;
-}
-
-.big.block2 {
-  border: 1px solid black;
-  width: 10cm;
-  height: 4cm;
-  padding: 10px;
-  background-image: url(https://barcode.tec-it.com/barcode.ashx?data=30062061&code=Code25IL);
-  background-repeat: no-repeat;
-  background-position: top 90px right 10px;
-  background-size: 3cm 2cm;
-  margin-right: 5px;
 }
