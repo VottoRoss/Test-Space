@@ -1,6 +1,6 @@
 .big.block {
   border: 1px solid black;
-  width: 10cm;
+  width: 9cm;
   height: 4cm;
   padding: 10px;
   background-image: url(https://barcode.tec-it.com/barcode.ashx?data=30062061&code=Code25IL);
@@ -12,6 +12,7 @@
 .image {
   display: inline-flex;
   position: relative; top: -155px;
+  position: relative; left: -8px;
 }
 
 .text {
@@ -20,7 +21,7 @@
   display: inline-flex;
   margin: 0px;
   position: relative; top: -107px;
-  position: relative; left: -85px;
+  position: relative; left: -90px;
 }
 
 .number.one {
@@ -33,7 +34,7 @@
   padding-top: 0px;
   padding-bottom: 10px;
   position: relative; top: -127px;
-  position: relative; left: -50px;
+  position: relative; left: -75px;
   height: 130px;
 }
 
@@ -42,5 +43,5 @@
   font-size: 430%;
   display: inline-flex;
   position: relative; top: -480px;
-  position: relative; left: 260px;
+  position: relative; left: 225px;
 }
