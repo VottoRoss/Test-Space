@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<style>
+table {
+  font-size: 270%;
+  font-weight: bold;
+  border-collapse: collapse;
+}
+
+td {
+  padding-left: 25px;
+  padding-right: 25px;
+  border: 2px solid black
+  
+}
+
+tr:nth-child(2n) {
+  background-color: grey;
+}
+</style>
+</head>
+<body>
+<table>
+<tr>
+ <td>290</td> <td>48</td>
+</tr>
+<tr>
+ <td>285</td> <td>47</td>
+</tr>
+<tr>
+ <td>280</td> <td>46</td>
+</tr>
+<tr>
+ <td>275</td> <td>45</td>
+</tr>
+<tr>
+ <td>270</td> <td>44</td>
+</tr>
+<tr>
+ <td>265</td> <td>43</td>
+</tr>
+<tr>
+ <td>260</td> <td>42</td>
+</tr>
+<tr>
+ <td>255</td> <td>41</td>
+</tr>
+<tr>
+ <td>250</td> <td>40</td>
+</tr>
+<tr>
+ <td>245</td> <td>39</td>
+</tr>
+<tr>
+ <td>240</td> <td>38</td>
+</tr>
+<tr>
+ <td>235</td> <td>37</td>
+</tr>
+<tr>
+ <td>230</td> <td>36</td>
+</tr>
+<tr>
+ <td>225</td> <td>35</td>
+</tr>
+</table>
+</body>
+</html>
